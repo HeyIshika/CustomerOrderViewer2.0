@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CutomerOrderViewer.Models
+namespace CustomerOrderViewer2._0.Models
 {
     class CustomerOrderDetailModel
     {
@@ -13,6 +13,5 @@ namespace CutomerOrderViewer.Models
         public int ItemId { get; set; }
         public string Description { get; set; }
         public decimal Price { get; set; }
-        public 
-    }
+    }  
 }
